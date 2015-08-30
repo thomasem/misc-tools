@@ -5,7 +5,7 @@ SS_DIR=${SS_DIR:-$(pwd)}
 SS_CN=${SS_CN:-$(hostname)}
 SS_C=${SS_CO:-US}
 SS_ST=${SS_ST:-TX}
-SS_O=${SS_O:-IT}
+SS_O=${SS_O:-None}
 SS_L=${SS_L:-"San Antonio"}
 SS_OU=${SS_OU:-IT}
 
